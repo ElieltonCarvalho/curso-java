@@ -1,6 +1,5 @@
 package cursojava;
 
-import java.lang.System.Logger;
 
 /**
  *
