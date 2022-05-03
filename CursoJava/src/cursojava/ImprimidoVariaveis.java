@@ -19,7 +19,7 @@ public class ImprimidoVariaveis {
 
         soma = num1 + num2;
 
-        System.out.println(soma);
+        System.out.println("ok");
 
     }
 
