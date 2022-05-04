@@ -1,4 +1,4 @@
-package cursojava;
+package academy.devdojo.cursojava.introduction;
 
 public class ImprimidoVariaveis {
 

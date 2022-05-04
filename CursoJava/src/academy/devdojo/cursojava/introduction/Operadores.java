@@ -1,4 +1,4 @@
-package cursojava;
+package academy.devdojo.cursojava.introduction;
 
 public class Operadores {
     public static void main(String[] args) {

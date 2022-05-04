@@ -1,4 +1,4 @@
-package cursojava;
+package academy.devdojo.cursojava.introduction;
 
 import java.util.Scanner;
 
