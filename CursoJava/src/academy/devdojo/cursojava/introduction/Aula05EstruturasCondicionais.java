@@ -14,8 +14,15 @@ public class Aula05EstruturasCondicionais {
 
         if (isAutorizadoComprarBebidaAlcoolica){
             System.out.println("Você está autorizado a comprar bebida alcoólica");
-        }else {
+        }
+
+        /*else {
             System.out.println("Você não está autorizado a comprar bebida alcoólica");
+        }*/
+
+        if(!isAutorizadoComprarBebidaAlcoolica){ //usando a exclamação para negar
+            System.out.println("Você não está autorizado a comprar bebida alcoólica");
+
         }
 
     }
